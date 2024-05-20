@@ -9,6 +9,8 @@ The summary of the findings are below.
 
 Choropleth map data: https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london
 
+Tesco data: https://figshare.com/articles/dataset/Area-level_grocery_purchases/7796666?backTo=/collections/Tesco_Grocery_1_0/4769354
+
 Remnant, J., & Adams, J., 2015. The nutritional content and cost of supermarket ready-meals. Cross-sectional analysis. Appetite [Online]. Available from: https://doi.org/10.1016/j.appet.2015.04.069 [02/04/2024]
 HM Revenue & Customs, 2022. Average Income of Tax Payers, Borough. London Datastore [Online]. Available from: https://data.london.gov.uk/dataset/average-income-tax-payers-borough [02/04/2024].
 Forbes, 2023. British New Year’s Resolution Statistics 2024 [Online]. Available from: https://www.forbes.com/uk/advisor/life-insurance/new-years-resolution-statistics/ [03/04/2024]
